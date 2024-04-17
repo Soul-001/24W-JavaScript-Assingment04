@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#apiData {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #432169;
+    border-radius: 8px;
+}
+
+h1 {
+    color: #ff0000;
+}
+#loadImage{
+    display: none;
+}
